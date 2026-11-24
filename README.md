@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Played by over 20 million Adventurers - Black Desert Online is an open-world, action MMORPG. Experience intense, action-packed combat, battle massive world bosses, fight alongside friends to siege and conquer castles, and train in professions such as fishing, trading, crafting, cooking, and more!
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,13 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Windows 10 (64-bit) | macOS 11.0 or later |
+| **Processor** | Min: Intel Core i3 (4th Generation) / Rec: Intel Core i5 (8th Generation), AMD Ryzen 5 2000 Series | Intel Core i5 / Apple M1 |
+| **Memory** | Min: 8 GB RAM / Rec: 16 GB RAM | 8 GB RAM |
+| **Graphics** | Min: GeForce GTX 970, Radeon RX 480 / Rec: GeForce GTX 1660 Super | Metal-capable GPU |
+| **Storage** | 80 GB available space | 80 GB available space |
+| **Network** | Broadband Internet connection | Broadband Internet connection |
+| **Additional Notes** | Min: 80GB HDD (SSD recommended) / Rec: 80GB SSD | 80GB HDD (SSD recommended) |
 
 ---
 
